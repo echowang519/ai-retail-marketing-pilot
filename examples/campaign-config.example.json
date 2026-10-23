@@ -1,0 +1,27 @@
+{
+  "campaignId": "demo-winter-hotpot-001",
+  "campaignName": "Winter Hotpot Week",
+  "product": {
+    "name": "Frozen Dumplings",
+    "price": "$4.99",
+    "image": "assets/product-placeholder.png"
+  },
+  "brand": {
+    "name": "Demo Brand",
+    "logo": "assets/logo-placeholder.png"
+  },
+  "promotion": {
+    "headline": "Warm up your week",
+    "startDate": "YYYY-MM-DD",
+    "endDate": "YYYY-MM-DD"
+  },
+  "creative": {
+    "theme": "winter-hotpot",
+    "template": "retail-price-focus"
+  },
+  "output": {
+    "format": "in-store-screen",
+    "width": 1920,
+    "height": 1080
+  }
+}
