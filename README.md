@@ -101,7 +101,27 @@ The prototype explored:
 - agent-assisted iteration using Codex
 - Remotion as the programmatic video layer
 
-The public repository does **not** publish client-owned product imagery or brand assets. Public demo material will use sanitized or placeholder assets.
+The public repository does **not** publish client-owned product imagery or brand assets. Public demo material uses sanitized or placeholder assets.
+
+---
+
+## Prototype Evidence
+
+The public demo preserves the prototype workflow while replacing client and brand identifiers with synthetic portfolio-safe values.
+
+<a href="demo/retail-marketing-pilot-public-demo.mp4">
+  <img src="screenshots/prototype-evidence.png" alt="Sanitized retail marketing prototype evidence" width="1000">
+</a>
+
+The evidence strip shows three parts of the prototype:
+
+1. **Structured asset slot** — official product imagery is treated as an approved input rather than generated authority.
+2. **Data-driven price treatment** — campaign information such as price can be supplied as structured data.
+3. **Sanitized campaign ending** — the same composition can be reused with different approved brand and retailer assets.
+
+▶️ **[Watch the 10-second sanitized public demo](demo/retail-marketing-pilot-public-demo.mp4)**
+
+This is a portfolio-safe demonstration of the prototype, not a deployed production campaign.
 
 ---
 
