@@ -18,3 +18,10 @@ Do not publish:
 - unapproved brand or product assets
 
 A visual should prove a specific part of the project rather than exist only as decoration.
+
+
+## Prepared public evidence
+
+Expected portfolio image:
+
+- `prototype-evidence.png` — three-frame sanitized evidence strip showing the structured asset slot, data-driven price treatment and sanitized campaign ending.
